@@ -10,7 +10,7 @@ git checkout: Se utiliza para cambiar de una rama a otra, tambien funciona para 
 
 git log: Muestra todas las commits en el historial del repositorio (SHA, autor, fecha, mensaje del commit).
 
-git branch: Se usa para crear ramas asi varios desarrolladores ueden trabajar en paralelo en el mismo proyecto simultaneamente.
+git branch: Se usa para crear ramas asi varios desarrolladores pueden trabajar en paralelo en el mismo proyecto simultaneamente.
 
 git add:  Se utiliza para incluir los cambios de los archivos en el siguiente commit
 
@@ -20,4 +20,4 @@ git push:  envía los commits al repositorio remoto.
 
 git merge: Integra las características de tu rama con todos los commits realizados a las ramas dev (o master)
 
-By Fernando Hoyos
+By Fernando Hoyos --
